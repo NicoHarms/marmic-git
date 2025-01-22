@@ -5,6 +5,9 @@ date modified: 2025-01-21T11:25:35
 
 # Git, GitHub/GitLab
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+
 ## Workshop
 
 - [Introduction](workshop/01_Introduction.md)
